@@ -2,7 +2,10 @@ img {
     height: 20px;
   }
   body {
-    background-color: #e3ccdb;
+    background-color: #EAF6F6;
+  }
+  h1, h3, h2 {
+    color: #66bfbf;
   }
   hr {
     border-style: none;
@@ -11,3 +14,4 @@ img {
     border-width: 3px;
     width: 4%;
   }
+  
